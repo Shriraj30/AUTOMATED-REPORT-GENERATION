@@ -1,9 +1,9 @@
 # AUTOMATED-REPORT-GENERATION
-**Name:** [Shriraj Dharmadhikari]  
+**Name:** Shriraj Dharmadhikari
 **Company:** CODTECH IT SOLUTIONS  
-**ID:** [CT08PEP]  
+**ID:** CT08PEP  
 **Domain:** PYTHON PROGRAMMING  
-**Duration:** [Jan 25th to Feb 25th]  
+**Duration:** 25th Jan to 25th Feb
 
 ---
 
