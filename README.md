@@ -90,7 +90,9 @@
   
 ### Otuput
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e76face-01ae-45d1-b739-0138522f557f" width="500">
+</p>
 
 ### Contact
 - **Name**: [Shriraj Dharmadhikari]
