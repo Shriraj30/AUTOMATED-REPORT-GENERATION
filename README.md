@@ -80,14 +80,6 @@
      - Generates a PDF report if valid data exists.
      - Skips report generation if no numeric data is found.
 
-### Sample Output (Report Format)
-- **Title**: "Automated Data Analysis Report"
-- **Column-wise Summary**:
-  - Count: Displays the number of numeric values.
-  - Sum: Displays the total sum of numeric values.
-  - Average: Displays the average of numeric values.
-  - Max: Displays the highest value.
-  - Min: Displays the lowest value.
   
 ### Otuput
 
